@@ -1,5 +1,8 @@
-- 👋 Hi, I’m Jesus Salvador Sierra Arballo
-- 👀 I’m interested in javascript in front end and backend
+# Jesús Salvador Sierra Arballo
+## Software developer
+I’m a full stack software developer 
+ainterested in javascript in front end and backend
 - 🌱 I’m currently learning Reactjs with Nextjs and css
-- 💞️ I’m looking to collaborate on ...
-- 📫 If you want to contact me send an email to jesusssierraa@gmail.com
+## Contactme 
+If you want to contact me send an email to jesusssierraa@gmail.com
+or findme in [Linkedin](http://linkedin.com/in/jesús-salvador-sierra)
